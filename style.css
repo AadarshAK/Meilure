@@ -1,0 +1,31 @@
+.header{
+    color: gold;
+    background-color: blue;
+    display: flex;
+    border : solid;
+    border-color: white;
+    justify-content: center;
+}
+
+.subheading{
+    color: gold;
+    background-color: blue;
+    display: flex;
+    border : solid;
+    border-color: white;
+    justify-content: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.cars{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
